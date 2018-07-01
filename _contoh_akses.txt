@@ -1,0 +1,54 @@
+AKSES
+=====
+
+
+
+admin
+	user : admin
+	pass : admin
+
+
+
+user akses lain
+	user : 120001
+	pass : 120001
+
+
+
+
+
+
+
+cobalah untuk
+	-> tapel : 2009/2010
+	-> program keahlian : teknik bangunan.
+	-> kompetensi keahlian : teknik gambar bangungan
+	-> kelas : x TGB 1
+
+
+
+konfigurasi, bisa cek ke file :
+	/inc/config.php
+
+
+
+
+PSB
+====
+
+admin
+	user/pass : admin
+
+
+
+bendahara
+	user/pass : bendahara
+
+
+
+pewawancara
+	user/pass : wawancara
+
+
+
+calon, login sesuai user/pass yang diperoleh saat pendaftaran.
